@@ -465,3 +465,8 @@ Here are some resource links to help with this project and it's contribution:
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- Actualización de prueba para verificar integración con Codacy -->
+
+> 🔄 Integración Codacy verificada correctamente el 19/10/2025
